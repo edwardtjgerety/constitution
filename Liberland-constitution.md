@@ -181,7 +181,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.2(2)** No Person shall hold the position of Chancellor or Member of the Cabinet while holding the position of Assembly Representative concurrently.
   * **§IV.2(3)** All Members of the Cabinet shall receive remuneration for their service as provided in the Annual Budget.
 * **§IV.3.** It shall be the duty of the Cabinet to refuse to execute any laws passed by the Assembly in conflict with the Constitution.
-* **§IV.4.** The Chancellor, on behalf of the Cabinet, shall once a year publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article III.
+* **§IV.4.** The Chancellor, on behalf of the Cabinet, shall once a year, publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article III.
 * **§IV.5.** The powers of the Chancellor and the Cabinet shall be restricted to the following only:
   * **§IV.5(1)** to run day-to-day state affairs;
   * **§IV.5(2)** to initiate a legislative procedure;
